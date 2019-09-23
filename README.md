@@ -2,6 +2,8 @@
 
 <h1>Последовательная загрузка картинок</h1>
 
+https://only-to-top.github.io/Async-img
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
